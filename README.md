@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Jose Anderson! 👋  
+🎓 *Estudante de Engenharia de Software*  
+💻 *Desenvolvedor Frontend* | Explorando *Cybersegurança* e *Análise de Dados*  
+🚀 Apaixonado por resolver problemas com tecnologia e criar experiências incríveis.  
 
-<!--
-**JoseAndersonSantanaAragao/JoseAndersonSantanaAragao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Sobre mim
+- 🔭 Atualmente aprendendo mais sobre *JavaScript*.  
+- 📚 Buscando combinar design e código para criar interfaces intuitivas e funcionais.  
+- 🎯 Objetivo: Tornar-me um especialista em frontend e contribuir para projetos impactantes.
 
-Here are some ideas to get you started:
+## 🌟 Habilidades
+- *Linguagens:* JavaScript, HTML, CSS  
+- *Ferramentas:* React.js, Vue.js, Git, Figma  
+- *Interesses:* UX/UI Design, Data Visualization, Segurança Digital  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Vamos conversar?
+- ✉ Email: andinhosantana11@gmail.com 
+- 🔗 LinkedIn: Jose Anderson](https://www.linkedin.com/in/jose-anderson-20478332b
