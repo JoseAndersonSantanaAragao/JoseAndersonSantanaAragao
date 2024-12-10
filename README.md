@@ -15,4 +15,4 @@
 
 ## 📬 Vamos conversar?
 - ✉ Email: andinhosantana11@gmail.com 
-- 🔗 LinkedIn: Jose Anderson](https://www.linkedin.com/in/jose-anderson-20478332b
+- 🔗 LinkedIn: https://www.linkedin.com/in/jose-anderson-20478332b
